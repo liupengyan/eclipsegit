@@ -10,6 +10,7 @@ public class Main {
 	public Main() {
 		super();
 		System.out.println("git test");
+		System.out.println("hahha test");
 	}
 
 }
