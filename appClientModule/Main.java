@@ -11,6 +11,8 @@ public class Main {
 		super();
 		System.out.println("git test");
 		System.out.println("hahha test");
+		System.out.println("git test");
+		System.out.println("hahha test");
 	}
 
 }
